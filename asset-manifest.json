@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/searchpokemon/static/css/main.e88cc090.chunk.css",
+    "main.js": "/searchpokemon/static/js/main.103644a6.chunk.js",
+    "main.js.map": "/searchpokemon/static/js/main.103644a6.chunk.js.map",
+    "runtime-main.js": "/searchpokemon/static/js/runtime-main.6e35d332.js",
+    "runtime-main.js.map": "/searchpokemon/static/js/runtime-main.6e35d332.js.map",
+    "static/css/2.31461e4f.chunk.css": "/searchpokemon/static/css/2.31461e4f.chunk.css",
+    "static/js/2.3bbf3a8e.chunk.js": "/searchpokemon/static/js/2.3bbf3a8e.chunk.js",
+    "static/js/2.3bbf3a8e.chunk.js.map": "/searchpokemon/static/js/2.3bbf3a8e.chunk.js.map",
+    "static/js/3.41900b76.chunk.js": "/searchpokemon/static/js/3.41900b76.chunk.js",
+    "static/js/3.41900b76.chunk.js.map": "/searchpokemon/static/js/3.41900b76.chunk.js.map",
+    "index.html": "/searchpokemon/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/searchpokemon/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.e88cc090.chunk.css.map": "/searchpokemon/static/css/main.e88cc090.chunk.css.map",
+    "static/js/2.3bbf3a8e.chunk.js.LICENSE.txt": "/searchpokemon/static/js/2.3bbf3a8e.chunk.js.LICENSE.txt",
+    "static/media/bulbasur.c91504b7.PNG": "/searchpokemon/static/media/bulbasur.c91504b7.PNG",
+    "static/media/butterfree.155c37ec.PNG": "/searchpokemon/static/media/butterfree.155c37ec.PNG",
+    "static/media/charizard.0136ad91.PNG": "/searchpokemon/static/media/charizard.0136ad91.PNG",
+    "static/media/eevee.d78ff921.PNG": "/searchpokemon/static/media/eevee.d78ff921.PNG",
+    "static/media/electrode.e1ca9dc1.PNG": "/searchpokemon/static/media/electrode.e1ca9dc1.PNG",
+    "static/media/jigglypuff.f7763e54.PNG": "/searchpokemon/static/media/jigglypuff.f7763e54.PNG",
+    "static/media/pikachu.0cbc163c.png": "/searchpokemon/static/media/pikachu.0cbc163c.png",
+    "static/media/psyduck.abee06a0.PNG": "/searchpokemon/static/media/psyduck.abee06a0.PNG",
+    "static/media/squirtle.1a58b7ec.PNG": "/searchpokemon/static/media/squirtle.1a58b7ec.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e35d332.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.3bbf3a8e.chunk.js",
+    "static/css/main.e88cc090.chunk.css",
+    "static/js/main.103644a6.chunk.js"
+  ]
+}
